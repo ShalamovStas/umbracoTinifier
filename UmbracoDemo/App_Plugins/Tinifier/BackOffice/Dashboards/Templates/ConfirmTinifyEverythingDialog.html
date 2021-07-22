@@ -1,0 +1,36 @@
+﻿<h4 style="text-align: center"><strong>All images on the site will be compressed</strong></h4>
+
+
+<div ng-if="model.tinifierIsAvaliable">
+    <div style="padding: 15px; background-color: #fff3cd; border-color:#ffeeba; color: #856404;">
+        <strong>It could be time-consuming operation and could affect your server in case of thousands of images</strong>
+    </div>
+    <div style="margin-top: 15px;"></div>
+
+    <div style="text-align: center;">
+
+        <img style="width: 80px;" src="/App_Plugins/Tinifier/media/tinify.png" alt="logo" />
+    </div>
+    <div style="text-align: center" ng-bind-html="model.content"></div>
+    <div style="margin-top: 30px;"></div>
+
+
+    <div style="text-align: center; font-size: 150%; color:#145c3a;" ng-bind-html="model.usage"></div>
+    <div style="text-align: center;">
+        <p>TinyPNG API Requests are available</p>
+    </div>
+
+    <div style="margin-top: 30px;"></div>
+    <p style="text-align: right;"><strong><span style="color:#008546 ">Do you wish to continue?</span></strong></p>
+</div>
+
+    <div ng-if="!model.tinifierIsAvaliable">
+
+        <div style="text-align: center; font-size: 150%; color:#856404">
+            <p><strong>Not enough TinyPNG API Requests!</strong></p>
+        </div>
+    </div>
+
+
+
+

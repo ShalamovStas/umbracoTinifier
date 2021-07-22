@@ -1,0 +1,122 @@
+﻿<div class="welcome-dashboard" ng-controller="Tinifier.ContactUsSection.Controller">
+
+    <div class="flex justify-center">
+
+        <umb-dashboard>
+            <umb-box>
+                <div style="-webkit-columns: 2 400px; -moz-columns: 2 400px; columns: 2 400px;">
+
+                    <umb-box-content>
+
+                        <div style="text-align: center;">
+                            <img style="width: 50px;" src="/App_Plugins/Tinifier/media/backend_label.png" alt="logo" />
+                        </div>
+                        <div style="text-align: center">
+                            <h3>Backend Devs</h3>
+                            <p style="color: gray">tinifier.support@gmail.com</p>
+                        </div>
+                        <div style="height: 25px;"></div>
+
+
+                        <h3 style="text-align: center"><span style="color: #3544b1">Our Umbraco Forum</span></h3>
+                        <a href="https://our.umbraco.com/packages/backoffice-extensions/tinifier-20/bugs/" class="forum-thread" target="_blank" style="text-decoration: none; background: #f5f5f5;">
+                            <div class="row">
+                                <div class="col-xs-12 col-md-12">
+                                    <div class="forum-thread-text">
+                                        <h4>Bugs</h4>
+                                        <p style="color: gray">If you find any bugs, please post them here so we can handle them. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <a href="https://our.umbraco.com/packages/backoffice-extensions/tinifier-20/project-related-issues/" class="forum-thread" target="_blank" style="text-decoration: none; background: #f5f5f5;">
+                            <div class="row">
+                                <div class="col-xs-12 col-md-12">
+                                    <div class="forum-thread-text">
+                                        <h4>Project related issues</h4>
+                                        <p style="color: gray">Please, post there project related issues and we will implement it in our next release.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </umb-box-content>
+
+
+                    <umb-box-content>
+                        <form ng-submit="submit()">
+
+                            <div style="display: inline-block; width: 100%; ">
+                                <!--<div class="control-group umb-control-group">
+    <div class="umb-el-wrap" >-->
+                                <h3 style="text-align: center">Contact us</h3>
+                                <label class="control-label">Name <span class="ng-scope"> <strong class="umb-control-required">*</strong> </span></label>
+                                <input id="nameInput" class="umb-property-editor ng-dirty ng-valid ng-valid-required" type="text" style="" ng-model="report.Name" placeholder="Enter your name">
+
+                                <label class="control-label">Email <span class="ng-scope"> <strong class="umb-control-required">*</strong> </span></label>
+                                <input id="emailInput" class="umb-property-editor ng-dirty ng-valid ng-valid-required" type="text" style="" ng-model="report.Email" required="" placeholder="Enter your email">
+
+                                <!--CheckBox Container-->
+                                <label class="control-label">Type <span class="ng-scope"> </span></label>
+
+                                <table style="width:100%">
+                                    <tr>
+                                        <th>
+                                            <input type="radio" name="type" style="margin: 0;" ng-model="report.Type" ng-value="'Bug'" checked>
+                                            <label class="ng-binding">
+                                                Report a bug
+                                            </label>
+                                        </th>
+
+                                        <th>
+                                            <input type="radio" name="type" style="margin: 0;" ng-model="report.Type" ng-value="'Improvement'">
+                                            <label class="ng-binding">
+                                                Project related issues
+                                            </label>
+                                        </th>
+
+                                        <th>
+                                            <input type="radio" name="type" style="margin: 0;" ng-model="report.Type" ng-value="'Other'">
+                                            <label class="ng-binding">
+                                                Other
+                                            </label>
+                                        </th>
+                                    </tr>
+                                </table>
+
+                                <div style="height: 20px;"></div>
+
+                                <p>
+                                    <label class="control-label">Description <span class="ng-scope"> <strong class="umb-control-required">*</strong> </span></label>
+                                </p>
+                                <p>
+                                    <textarea id="descriptionText" style="width: 100%; height: 100px;" ng-model="report.Description" placeholder="Please, describe a problem"></textarea>
+                                </p>
+
+                                <div class="ng-scope">
+                                    <label class="control-label" id="uploadimage-label"> Upload images <span ng-click="paste()">or click to paste <i style="color:gray" class="icon-paste-in"></i> the snippet from the clipboard </span></label> 
+                                </div>
+                                <input id="fileInput" name="file" type="file" accept="image/x-png, image/jpeg" ng-fil ng-model="report.Files" select-ng-files multiple>
+
+                                <div id="clipboard-preview" style=" min-height: 25px;"></div>
+
+                                <div style="height: 20px;"></div>
+
+
+                                <button id="submit-btn" type="button" class="btn btn-primary btn-large" style="padding: 14px 40px; width: 100%;" data-toggle="modal" ng-click="submit()" data-target="#myModal"><i id="label-btn" class="icon-paper-plane"></i>  </button>
+
+                                <!--</div>
+    </div>-->
+                            </div>
+
+                        </form>
+                    </umb-box-content>
+                </div>
+            </umb-box>
+        </umb-dashboard>
+
+    </div>
+
+
+</div>
+

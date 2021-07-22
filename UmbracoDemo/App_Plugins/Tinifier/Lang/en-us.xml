@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language alias="en" intName="English (US)" localName="English (US)" lcid="" culture="en-US">
+  <area alias="sections">
+    <key alias="tinifier">Tinifier</key>
+
+  </area>
+  <area alias="dashboardTabs">
+    <key alias="settings">Settings</key>
+    <key alias="statistic">Statistic</key>
+    <key alias="contact us">Contact us</key>
+  </area>
+
+</language>

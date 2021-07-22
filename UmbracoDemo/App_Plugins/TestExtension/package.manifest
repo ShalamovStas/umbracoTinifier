@@ -1,0 +1,19 @@
+﻿{
+  "sections": [
+    {
+      "alias": "testExtension",
+      "name": "TestExtension"
+    }
+  ],
+  "dashboards": [
+    {
+      "alias": "settings",
+      "view": "/App_Plugins/TestExtension/Backoffice/Dashboards/Info.html",
+      "sections": [ "testExtension" ],
+      "weight": 10
+    }
+  ],
+  "javascript": [
+    "~/App_Plugins/TestExtension/Controllers/Extension.controller.js"
+  ]
+}

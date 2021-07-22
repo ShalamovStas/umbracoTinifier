@@ -1,0 +1,27 @@
+﻿<div class=position: absolute; left: 500px; z-index: 1100; bottom: 10px; right: 0; display: block;"  ng-controller="Tinifier.Test.Controller as vm">
+    <h4>Test Notification</h4>
+
+    <div id="container" style="padding-top: 10px"></div>
+
+    <umb-toggle checked="vm.checked"
+                on-click="vm.toggle()">
+    </umb-toggle>
+
+    <umb-toggle checked="vm.checked"
+                disabled="vm.disabled"
+                on-click="vm.toggle()"
+                show-labels="true"
+                label-on="Start"
+                label-off="Stop"
+                label-position="right"
+                hide-icons="true">
+    </umb-toggle>
+
+    <div style="margin: 50px">
+        <umb-toggle checked="checked"
+                    disabled="$scope.disabled"
+                    on-click="click()">
+        </umb-toggle>
+    </div>
+    <p>Message: {{message}}</p>
+</div>

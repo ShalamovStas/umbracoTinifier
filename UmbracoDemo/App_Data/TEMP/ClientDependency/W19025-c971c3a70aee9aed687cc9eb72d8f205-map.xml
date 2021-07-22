@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_9dd54a109cd44fb197d28511bec4741f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_ef37621fbe3746deafd90affd695ae4d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvT3NtTWFwcy9Pc21NYXBzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvbGVzc29ucy5zZXJ2aWNlLmpzOw" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_a3030468f7c74a14bdc9a249428117b5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy9jYW52YXNkZXNpZ25lci5jc3M7" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_3c5e62136ca8437f95c218da9f4e7836.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/assets/css/canvasdesigner.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyL2FuZ3VsYXIuanM7L3VtYnJhY28vbGliL3VuZGVyc2NvcmUvdW5kZXJzY29yZS1taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmludGVyY2VwdG9ycy5qczs" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_6a2ab254f0f848cdb60bb3b91faea104.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3NpZ25hbHIvanF1ZXJ5LnNpZ25hbFIuanM7" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_1155fd4d1c864d149c10e76099cb9888.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/signalr/jquery.signalR.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vanMvdW1icmFjby5wcmV2aWV3LmpzOw" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_6dc7fd4d5fa1429387c8cf5ac7862d5f.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/js/umbraco.preview.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL1RpbmlmaWVyRWRpdFRTZXR0aW5nLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL1RpbmlmaWVyRWRpdFRpbWFnZS5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UaW5pZmllci9Db250cm9sbGVycy9UaW55VEltYWdlLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL1RpbmlmaWVyRGlzcGxheVN0YXRpc3RpYy5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UaW5pZmllci9Db250cm9sbGVycy9UaW5pZmllck9yZ2FuaXplSW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL1Rlc3QuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVGluaWZpZXIvQ29udHJvbGxlcnMvVGluaWZ5QWxsLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL1N0b3BUaW5pZnlpbmdDb25maXJtYXRpb24uY29udHJvbGxlci5qczs" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_6e11f0b1910641cbb9e761d38445962b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Tinifier/Controllers/TinifierEditTSetting.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/TinifierEditTimage.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/TinyTImage.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/TinifierDisplayStatistic.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/TinifierOrganizeImages.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/Test.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/TinifyAll.controller.js" />
+      <file name="/App_Plugins/Tinifier/Controllers/StopTinifyingConfirmation.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1RpbmlmaWVyL2Nzcy9UaW5pZmllclN0eWxlLmNzczs" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_8a98ab2b85994bbab8d5dca08005319d.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Tinifier/css/TinifierStyle.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL0V4dGVuc2lvbi5jb250cm9sbGVyLmpzOw" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_c6d395b353da4611ab3eaa2e667b31eb.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RpbmlmaWVyL0NvbnRyb2xsZXJzL1Rlc3QuRXh0ZW5zaW9uLmNvbnRyb2xsZXIuanM7" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_238e2e21e5ed41d1b3fe39b16a41dfc0.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1Rlc3RFeHRlbnNpb24vQ29udHJvbGxlcnMvVGVzdC5FeHRlbnNpb24uY29udHJvbGxlci5qczs" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_9ae961d0cfdd460b839aafa33d430189.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1Rlc3RFeHRlbnNpb24vQ29udHJvbGxlcnMvRXh0ZW5zaW9uLmNvbnRyb2xsZXIuanM7" file="C:\UT\UmbacoTinifier-restored\UmbracoDemo\App_Data\TEMP\ClientDependency\1_05a8b01fb24d4582aa7ea5b54a30eecf.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+      <file name="/App_Plugins/TestExtension/Controllers/Extension.controller.js" />
+    </files>
+  </item>
+</map>
